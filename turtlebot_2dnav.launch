@@ -1,4 +1,5 @@
 <launch>
+
   <!--Launch the base nodes of the turtlebot-->
   <include file="$(find turtlebot_bringup)/launch/minimal.launch"/>
 
@@ -22,4 +23,5 @@
 
   <!--Run the node that allows us to know where is the turtlebot in the map-->
   <node name="robot_pose_publisher" pkg="robot_pose_publisher" type="robot_pose_publisher"/>
+
 </launch>
