@@ -2,8 +2,8 @@
 Changelog for package turtlebot_2dnav
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.2 (2015-04-02)
+------------------
 * 1.0.1
 * Merge branch 'master' of https://github.com/pexison/turtlebot_2dnav
 * Revert "Preparing to release"
